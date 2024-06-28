@@ -1,0 +1,135 @@
+* {
+  font-family: "Montserrat", sans-serif;
+  color: #404040;
+}
+
+h1 {
+  font-size: 35px;
+  font-weight: 600;
+}
+
+h2 {
+  font-weight: 400;
+  font-size: 35px;
+}
+
+h3 {
+  font-weight: 600;
+  font-size: 35px;
+}
+
+strong, b {
+  font-weight: 600;
+}
+
+a {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+
+/* CABEÇALHO */
+.item-cabecalho {
+  font-size: 14px;
+  color: #112E61;
+  text-decoration: none;
+}
+
+
+/* SEÇÃO HERO */
+.botao-hero {
+  font-size: 24px;
+  color: orangered;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+
+/* SEÇÃO CONTEUDOS GRATUITOS */
+.realce-roxo {
+  font-weight: 600;
+  color: #7A40BE;
+}
+
+.subtitulo-conteudos-gratuitos {
+  font-size: 23px;
+  font-weight: bold;
+  color: #aa56e6;
+}
+
+.link-rede-social-conteudos-gratuitos {
+  text-decoration: none;
+  font-size: 19px;
+  font-weight: 400;
+}
+
+
+/* SEÇÃO DIFERENCIAIS */
+.titulo-bloco-secao-diferenciais {
+  font-size: 24px;
+  color: #005e88;
+}
+
+.titulo-validacao-empresas-secao-diferenciais {
+  font-weight: 400;
+}
+
+.link-empresas-diferenciais {
+  text-decoration: none;
+  font-weight: bold;
+  color: #005e88;
+}
+
+
+/* SEÇÃO O QUE FALAM */
+.botao-secao-o-que-falam {
+  font-size: 24px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+
+/* SEÇÃO BLOG */
+.subtitulo-post-secao-blog {
+  font-size: 15px;
+}
+
+.link-subtitulo-post-secao-blog {
+  color: #F7A70C;
+}
+
+.descricao-post-secao-blog {
+  font-size: 17px;
+}
+
+.link-titulo-post-secao-blog   {
+  font-size: 24px;
+}
+
+
+/* SECAO COMO AJUDAR */
+.paragrafo-secao-como-ajudar {
+  font-size: 19px;
+}
+.links-secao-como-ajudar {
+  color: #008FF7;
+  text-decoration: underline;
+}
+
+/* SEÇÃO MINI CURSO */
+.realce-bold {
+  font-weight: bold;
+}
+
+
+/* RODAPE */
+.subtitulo-rodape {
+  font-size: 22px;
+}
+
+.link-rodape {
+  color: #1A77A4;
+  font-weight: 400;
+  text-decoration: underline;
+}
+
