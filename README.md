@@ -19,4 +19,4 @@ Projeto criado no curso da [Hashtag Treinamentos](https://www.hashtagtreinamento
 
 ## 🔗 Acesso
 
-[Clique aqui para acessar o site](https://rafaelmainieri.github.io/anuncio-tv/);
+[Clique aqui para acessar o site](https://rafaelmainieri.github.io/home-hashtag/);
